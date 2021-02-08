@@ -7,4 +7,5 @@ hash.each do |key , value|
   if value < min
     min = value
     min
+  end
 end
