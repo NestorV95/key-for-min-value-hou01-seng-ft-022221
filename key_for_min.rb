@@ -6,8 +6,8 @@ hash.each do |key , value|
 if key > min_value
   min_value = key
   min_value
-elsif ={} == nil
     
   end
 end
+min_value
 end
