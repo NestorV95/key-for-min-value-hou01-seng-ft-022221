@@ -9,3 +9,4 @@ hash.each do |key , value|
     min
   end
 end
+end
