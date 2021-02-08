@@ -8,8 +8,8 @@ min_value = 999999999999999
 hash.each do |key , value|
 if value < min_value
   min_value = value
-  min_value
-    
+  min_key = key
   end
 end
+min_key
 end
