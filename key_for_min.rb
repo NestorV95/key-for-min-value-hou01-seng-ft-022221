@@ -6,7 +6,7 @@ min_key = nil
 min_value = 999999999999999
   
 hash.each do |key , value|
-if value > min_value
+if value < min_value
   min_value = value
   min_value
     
